@@ -1,0 +1,20 @@
+myapp/
+├── views/
+│   ├── assets/
+│   │   └── app.js
+│   ├── css/
+│   │   └── style.css
+│   ├── prism/
+│   │   ├── css/
+│   │   │   ├── prism-live.css
+│   │   │   └── prism-tomorrow.css
+│   │   └── js/
+│   │       ├── prism.js
+│   │       └── prism-live.js
+│   ├── dashboard.ejs
+│   ├── index.ejs
+│   ├── login.ejs
+│   ├── register.ejs
+│   └── run-server
+├── app.js
+└── package.json
